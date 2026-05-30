@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseuelete",
+        "uuid": 9607400,
+        "checksum": "skgbm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
